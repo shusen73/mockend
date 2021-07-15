@@ -3,7 +3,8 @@
   "firstName":{"string":{}},
   "lastName":{"string":{}},
   "dateOfBirth": {
-      "dateTime": {}
+      "dateTime": {"min": "1900-01-01T00:00:00Z",
+        "max": "2020-12-31T23:59:59Z"}
     }
 
 }}

@@ -1,5 +1,7 @@
 {
 "Member":{
+  "policyNumber":{"string":{}},
+  "memberCardNumber":{"string":{}},
   "firstName":{"string":{}},
   "lastName":{"string":{}},
   "dateOfBirth": {

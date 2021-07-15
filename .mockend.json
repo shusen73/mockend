@@ -1,0 +1,9 @@
+{
+"Member":{
+  "firstName":{"string":{}},
+  "lastName":{"string":{}},
+  "dateOfBirth": {
+      "dateTime": {}
+    }
+
+}}
